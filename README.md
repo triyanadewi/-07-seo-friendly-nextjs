@@ -81,8 +81,43 @@ Setelah menambahkan metadata, favicon, dan Open Graph Tags, Anda dapat menguji S
 ---
 
 ## Tugas 
-Lakukan pengujian SEO dengan 
-1. Gunakan tools seperti Google Search Console untuk memeriksa performa SEO dari suatu website. 
+Lakukan pengujian SEO dengan Gunakan tools seperti Google Search Console untuk memeriksa performa SEO dari suatu website. 
+### Jawaban: <br>
+#### **1. Website Pribadi menggunakan Google Search Console**
+Saya telah menggunakan Google Search Console untuk memeriksa performa SEO dari website pribadi saya:
+https://05-website-pribadi-nextjs-triyana.vercel.app
+<br>
+
+**Hasil Pemeriksaan:** <br>
+- Verifikasi Properti Berhasil <br>
+Website telah diverifikasi menggunakan metode file HTML. 
+
+- Laporan Performa
+Tampilan performa di Google Search Console masih kosong karena website baru saja didaftarkan.<br>
+![Hasil SEO Website Pribadi](img/t1-pribadi.png)
+
+#### **2. Website tokopedia.com menggunakan Ubersuggest**
+![Hasil SEO Tokopedia](img/t1-tokopedia.png)
+**Hasil Pemeriksaan:** <br>
+**Traffic Overview <br>**
+- Organic Traffic: 143.3 juta / bulan :
+Artinya, jumlah pengunjung yang datang ke situs Tokopedia melalui hasil pencarian organik (tidak berbayar) sangat besar.
+- Paid Traffic: 1,238 : 
+Ini adalah jumlah pengunjung yang datang dari iklan berbayar (seperti Google Ads), relatif sangat kecil dibanding trafik organik.
+
+**Keyword Overview** <br>
+- Organic Keywords: 6,614,263 :
+Tokopedia muncul di hasil pencarian Google untuk lebih dari 6 juta kata kunci unik.
+- Paid Keywords: 56 :
+Hanya 56 kata kunci yang digunakan untuk iklan.
+
+**Domain Authority: 82** <br>
+- Skor dari 1–100 yang menunjukkan seberapa kuat otoritas domain suatu situs.
+- Nilai 82 berarti sangat kuat dan berpeluang tinggi muncul di halaman pertama Google.
+
+**Backlinks: 45,152,850** <br>
+- Jumlah backlink (tautan dari situs lain ke Tokopedia.com), termasuk: 5,2 juta di antaranya merupakan backlink NoFollow (tidak mewariskan otoritas).
+- Backlink sangat penting dalam SEO karena berfungsi sebagai “vote of trust” dari situs lain.
 
 ---
 
